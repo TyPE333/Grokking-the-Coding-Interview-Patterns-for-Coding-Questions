@@ -87,7 +87,7 @@
 
 ### 8. Pattern: Monotonic Stack
 
-1. Introduction to Monotonic Stack
+1. Introduction to Monotonic Stack : [Geeks for Geeks](https://www.geeksforgeeks.org/introduction-to-monotonic-stack-2/)
 2. Next Greater Element (easy) [Leetcode - I](https://leetcode.com/problems/next-greater-element-i/) [Leetcode -II](https://leetcode.com/problems/next-greater-element-ii/) [Leetcode - III (Hard)](https://leetcode.com/problems/next-greater-element-iv/)
 3. Daily Temperatures (easy) [Leetcode](https://leetcode.com/problems/daily-temperatures/)
 4. Remove Nodes From Linked List (easy) [Leetcode](https://leetcode.com/problems/remove-nodes-from-linked-list/)
